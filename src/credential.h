@@ -1,0 +1,3 @@
+#define SSID "YOUR_SSID"
+#define PSW "YOUR_PSW"
+#define BASE_URL "LINK_TO_OCTPRINT"
