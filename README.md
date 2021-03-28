@@ -13,7 +13,7 @@
 </p>
 
 <p>
-<img alt='M5StackImage' src='https://github.com/S7Industries/RemotePrinterController/img/DSC00279.JPG'>
+<img alt='M5StackImage' src="https://github.com/S7Industries/RemotePrinterController/blob/main/img/DSC00279.JPG">
 </p>
 
 <p align="center">
