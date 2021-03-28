@@ -13,7 +13,7 @@
 </p>
 
 <p>
-<img alt='M5StackImage' src="https://www.iloveimg.com/download/t8hwzg9tfvv4Alnsxzvkzl2zj2rxl9qh1zn66lvzv1lAhs1ggy72yg9y4svlc7fk9flhjxxfcy8fwb4pjvA33w2n8c2m6kdzw22qfcwql299svkthflbrs99jp4zgqk75lyw6569zdAc85v8n7b8fsclb2v7rrrfb7j05vmwmyv0p2lj4wl1/6">
+<img alt='M5StackImage' src="https://github.com/S7Industries/RemotePrinterController/blob/main/img/DSC00279.JPG">
 </p>
 
 <p align="center">
